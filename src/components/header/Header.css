@@ -1,0 +1,21 @@
+.nav-header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 10vh;
+    background: rgb(56, 175, 214);
+    color: rgb(151, 51, 51);
+  }
+  
+  .nav-links {
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+  }
+
+  .vertical-line{
+    display: block;
+    width: 60px;
+  }

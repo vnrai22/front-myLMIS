@@ -1,0 +1,23 @@
+.storageLocationDiv .addFilterBoxPos .form-control {
+    display: unset;
+  }
+  
+  .addBtn {
+    margin-left: 2px;
+  }
+  
+  .searchBox {
+    margin-bottom: 3px;
+  }
+  
+  .searchBox .form-control {
+    width: 70%;
+  }
+  
+  .btns {
+    margin-top: 5px;
+  }
+  .btns button svg{
+    position:relative;
+    top:-3px;
+  }
